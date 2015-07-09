@@ -14,9 +14,8 @@ String bothering = "Did you eat?";
 3. If I feel annoyed, I'll try not to feel annoyed.
 ```
   if (feelingAnnoyed == true) {
-    //ignore();
+    //ignore(); i'll ignore occasionally.
     println(bothered);
-    //background(255);
     textFont(f, 80);
     fill(150, 150, 150);
     textAlign(CENTER);
